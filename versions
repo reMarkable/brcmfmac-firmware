@@ -1,0 +1,44 @@
+Chip: 43012
+File: brcmfmac43012-sdio.bin
+Version: 13.10.271.138
+
+Chip: 43340
+File: brcmfmac43340-sdio.bin
+Version: 6.10.190.72
+
+Chip: 43362
+File: brcmfmac43362-sdio.bin
+Version: 5.90.247
+
+Chip: 4339
+File: brcmfmac4339-sdio.bin
+Version: 6.37.39.99
+
+Chip: 43430
+File: brcmfmac43430-sdio.bin
+Version: 7.45.98.65
+
+Chip: 43455
+File: brcmfmac43455-sdio.bin
+Version: 7.45.173
+
+Chip: 4354
+File: brcmfmac4354-sdio.bin
+Version: 7.35.349.62
+
+Chip: 4356
+File: brcmfmac4356-pcie.bin
+Version: 7.35.180.190
+
+Chip: 4356
+File: brcmfmac4356-sdio.bin
+Version: 7.35.349.62
+
+Chip: 4359
+File: brcmfmac4359-pcie.bin
+Version: 9.40.97
+
+Chip: 4359
+File: brcmfmac4359-sdio.bin
+Version: 9.40.94.1
+
